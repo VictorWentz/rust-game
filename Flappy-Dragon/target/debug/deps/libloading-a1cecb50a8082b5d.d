@@ -1,0 +1,11 @@
+D:\Pasta_de_arquivos_de_trabalho\Rust Projects\rust-game\Flappy-Dragon\target\debug\deps\libloading-a1cecb50a8082b5d.rmeta: C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\lib.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\mod.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\changelog.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\util.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\windows\mod.rs
+
+D:\Pasta_de_arquivos_de_trabalho\Rust Projects\rust-game\Flappy-Dragon\target\debug\deps\liblibloading-a1cecb50a8082b5d.rlib: C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\lib.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\mod.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\changelog.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\util.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\windows\mod.rs
+
+D:\Pasta_de_arquivos_de_trabalho\Rust Projects\rust-game\Flappy-Dragon\target\debug\deps\libloading-a1cecb50a8082b5d.d: C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\lib.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\mod.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\changelog.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\util.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\windows\mod.rs
+
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\lib.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\mod.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\changelog.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\util.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.5.2\src\os\windows\mod.rs:
