@@ -1,0 +1,14 @@
+d:\Pasta_de_arquivos_de_trabalho\Rust Projects\rust-game\flappy-player\target\rls\debug\deps\png-79c83bc48cdc6f45.rmeta: C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\lib.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\chunk.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\common.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\mod.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\stream.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\zlib.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\encoder.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\filter.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\traits.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\utils.rs
+
+d:\Pasta_de_arquivos_de_trabalho\Rust Projects\rust-game\flappy-player\target\rls\debug\deps\png-79c83bc48cdc6f45.d: C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\lib.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\chunk.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\common.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\mod.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\stream.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\zlib.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\encoder.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\filter.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\traits.rs C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\utils.rs
+
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\lib.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\chunk.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\common.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\mod.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\stream.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\decoder\zlib.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\encoder.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\filter.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\traits.rs:
+C:\Users\victo\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.8\src\utils.rs:
